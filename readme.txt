@@ -19,4 +19,4 @@ git branch
 
 Creating a new branch is quick AND simple
 
-git merge
+git merge --no-ff
