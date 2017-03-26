@@ -21,4 +21,8 @@ Creating a new branch is quick AND simple
 
 git merge
 
+<<<<<<< HEAD
 dddd
+=======
+origin/dev
+>>>>>>> 710fa606efb45c752f1e7859b2c908dd0b56b3e9
